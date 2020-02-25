@@ -8,7 +8,7 @@ Resources:
     Properties:
       
       # This function uses the Nodejs v8.10 runtime.
-      Runtime: nodejs12.14
+      Runtime: nodejs10.18
         
       # This is the Lambda function's handler.
       Handler: handler.lambdaHandler
