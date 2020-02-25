@@ -1,7 +1,7 @@
 Transform: 'AWS::Serverless-2016-10-31'
 Resources:
 
-  MainFunction:
+  MainFunction: 
     # This resource creates a Lambda function.
     Type: 'AWS::Serverless::Function'
     
